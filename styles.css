@@ -51,7 +51,7 @@ Body {
     }
     .title {
         font-size: 20px;
-        color: hsl(47, 88%, 63%);
+        color: black;
         font-weight: bold;
         margin: 10px 0;
     }
